@@ -1,0 +1,16 @@
+.status_bar {
+  display: flex;
+  flex-direction: row;
+  border-bottom: 1px solid #CC66FF;
+  padding: 5px;
+  justify-content: center;
+  align-items: center;
+  &-heading {
+    font-size: .8rem;
+    padding-right: 6px;
+  }
+  &-item {
+    width: 100px;
+    padding: 2px 6px;
+  }
+}

@@ -13,7 +13,7 @@ ingredients, recipes, and orders. The scenario can be a pizza restaurant.
 5. If there are insufficient ingredients, a recipe cannot be ordered.
 6. The ingredients should have color attributes with a filter to toggle them.
 
-
+![Screenshot](demo-screenshot.png "Demo screenshot")
 
 ## Available Scripts
 
